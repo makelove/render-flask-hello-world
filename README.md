@@ -7,3 +7,7 @@ The app in this repo is deployed at [https://flask.onrender.com](https://flask.o
 ## Deployment
 
 Follow the guide at https://render.com/docs/deploy-flask.
+
+# 中文
+执行
+gunicorn app:app
